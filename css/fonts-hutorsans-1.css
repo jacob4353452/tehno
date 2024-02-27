@@ -1,0 +1,91 @@
+@font-face {
+  font-family: "hutorSans";
+  font-style: normal;
+  font-weight: 250 1000;
+  src: url("../fonts/hutorsans/hutorSans-VF-1.woff2") format("woff2-variations"),
+    url("../fonts/hutorsans/hutorSans-VF-1.woff") format("woff-variations");
+}
+@font-face {
+  font-family: "hutorSans";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/hutorsans/hutorSans-Light-2.eot");
+  src: url("../fonts/hutorsans/hutorSans-Light-3.eot")
+      format("embedded-opentype"),
+    url("../fonts/hutorsans/hutorSans-VF-1.woff2") format("woff2-variations"),
+    url("../fonts/hutorsans/hutorSans-VF-1.woff") format("woff-variations"),
+    url("../fonts/hutorsans/hutorSans-Light-1.woff2") format("woff2"),
+    url("../fonts/hutorsans/hutorSans-Light-1.woff") format("woff");
+}
+@font-face {
+  font-family: "hutorSans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/hutorsans/hutorSans-Regular-2.eot");
+  src: url("../fonts/hutorsans/hutorSans-Regular-3.eot")
+      format("embedded-opentype"),
+    url("../fonts/hutorsans/hutorSans-VF-1.woff2") format("woff2-variations"),
+    url("../fonts/hutorsans/hutorSans-VF-1.woff") format("woff-variations"),
+    url("../fonts/hutorsans/hutorSans-Regular-1.woff2") format("woff2"),
+    url("../fonts/hutorsans/hutorSans-Regular-1.woff") format("woff");
+}
+@font-face {
+  font-family: "hutorSans";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/hutorsans/hutorSans-Medium-2.eot");
+  src: url("../fonts/hutorsans/hutorSans-Medium-3.eot")
+      format("embedded-opentype"),
+    url("../fonts/hutorsans/hutorSans-VF-1.woff2") format("woff2-variations"),
+    url("../fonts/hutorsans/hutorSans-VF-1.woff") format("woff-variations"),
+    url("../fonts/hutorsans/hutorSans-Medium-1.woff2") format("woff2"),
+    url("../fonts/hutorsans/hutorSans-Medium-1.woff") format("woff");
+}
+@font-face {
+  font-family: "hutorSans";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/hutorsans/hutorSans-Semibold-2.eot");
+  src: url("../fonts/hutorsans/hutorSans-Semibold-3.eot")
+      format("embedded-opentype"),
+    url("../fonts/hutorsans/hutorSans-VF-1.woff2") format("woff2-variations"),
+    url("../fonts/hutorsans/hutorSans-VF-1.woff") format("woff-variations"),
+    url("../fonts/hutorsans/hutorSans-Semibold-1.woff2") format("woff2"),
+    url("../fonts/hutorsans/hutorSans-Semibold-1.woff") format("woff");
+}
+@font-face {
+  font-family: "hutorSans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/hutorsans/hutorSans-Bold-2.eot");
+  src: url("../fonts/hutorsans/hutorSans-Bold-3.eot")
+      format("embedded-opentype"),
+    url("../fonts/hutorsans/hutorSans-VF-1.woff2") format("woff2-variations"),
+    url("../fonts/hutorsans/hutorSans-VF-1.woff") format("woff-variations"),
+    url("../fonts/hutorsans/hutorSans-Bold-1.woff2") format("woff2"),
+    url("../fonts/hutorsans/hutorSans-Bold-1.woff") format("woff");
+}
+@font-face {
+  font-family: "hutorSans";
+  font-style: normal;
+  font-weight: 800;
+  src: url("../fonts/hutorsans/hutorSans-Extrabold-2.eot");
+  src: url("../fonts/hutorsans/hutorSans-Extrabold-3.eot")
+      format("embedded-opentype"),
+    url("../fonts/hutorsans/hutorSans-VF-1.woff2") format("woff2-variations"),
+    url("../fonts/hutorsans/hutorSans-VF-1.woff") format("woff-variations"),
+    url("../fonts/hutorsans/hutorSans-Extrabold-1.woff2") format("woff2"),
+    url("../fonts/hutorsans/hutorSans-Extrabold-1.woff") format("woff");
+}
+@font-face {
+  font-family: "hutorSans";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/hutorsans/hutorSans-Black-2.eot");
+  src: url("../fonts/hutorsans/hutorSans-Black-3.eot")
+      format("embedded-opentype"),
+    url("../fonts/hutorsans/hutorSans-VF-1.woff2") format("woff2-variations"),
+    url("../fonts/hutorsans/hutorSans-VF-1.woff") format("woff-variations"),
+    url("../fonts/hutorsans/hutorSans-Black-1.woff2") format("woff2"),
+    url("../fonts/hutorsans/hutorSans-Black-1.woff") format("woff");
+}
